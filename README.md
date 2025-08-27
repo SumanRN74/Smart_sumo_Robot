@@ -1,4 +1,4 @@
-# 🤖 Robo Sumo Bot
+# 🤖 Smart sumo Robot
 
 A **Robo Sumo Bot** built using **Arduino Uno**, **L298N Motor Driver**, and an **Ultrasonic Sensor**.  
 The bot is designed to detect an opponent within **50 cm** and push it outside the ring.  
@@ -15,7 +15,7 @@ where it competed in the **Robo Sumo Main Event** and secured **3rd Place** 🎉
 ## 🔧 Components Used
 - 1 × Arduino Uno  
 - 1 × L298N Motor Driver Module  
-- 4 × BO Motors (DC Geared Motors)  
+- 4 × DC Geared Motors  
 - 1 × Ultrasonic Sensor HC-SR04  
 - 1 × LED (Power Indicator)  
 - 1 × Battery Pack (6V–12V, depending on motor requirement)  
@@ -74,7 +74,5 @@ Attached in the repository named "schematic.jpg"
 
 ## 👨‍💻 Author
 **Suman R N**  
-- 📧 Contact: *[your.email@example.com]*  
-- 🌐 GitHub: *[your-username]*  
-
+📧 Contact: sumansurn@gmail.com 
 ---
