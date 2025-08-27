@@ -10,8 +10,6 @@ If no opponent is detected, the bot **rotates right and moves forward slightly**
 This project was successfully demonstrated at **Robofiesta 2024** (R V Institute of Technology and Management),  
 where it competed in the **Robo Sumo Main Event** and secured **3rd Place** 🎉  
 
-![Certificate](6b132539-e665-4fc8-9613-3ad00779aea8.png)
-
 ---
 
 ## 🔧 Components Used
@@ -42,7 +40,7 @@ where it competed in the **Robo Sumo Main Event** and secured **3rd Place** 🎉
 | Battery GND (–)       | Arduino GND + L298N GND (Common Ground) |
 
 📷 **Schematic Reference:**  
-![Schematic](schematic.jpg)
+Attached in the repository named "schematic.jpg"
 
 ---
 
