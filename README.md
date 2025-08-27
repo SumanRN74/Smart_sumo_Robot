@@ -1,14 +1,18 @@
 # 🤖 Smart sumo Robot
 
-A **Robo Sumo Bot** built using **Arduino Uno**, **L298N Motor Driver**, and an **Ultrasonic Sensor**.  
-The bot is designed to detect an opponent within **50 cm** and push it outside the ring.  
-If no opponent is detected, the bot **rotates right and moves forward slightly** before scanning again — repeating the process.
+This project presents a **Robo Sumo Bot** built using an **Arduino Uno**, **L298N Motor Driver**, and an **Ultrasonic Sensor**.The bot is programmed to **detect opponents within a range of 50 cm** and actively **push them out of the ring**.
+
+In the absence of an opponent, the bot employs a **search strategy** — it **rotates to the right**, **moves forward slightly**, and then **resumes scanning**.This cycle continues until an opponent is detected, ensuring **continuous engagement** during the match. 
+
+The design emphasizes **autonomous decision-making**, **efficient movement**, and **competitive performance** in robotic sumo contests.
 
 ---
 
 ## 🏆 Achievement
 This project was successfully demonstrated at **Robofiesta 2024** (R V Institute of Technology and Management),  
-where it competed in the **Robo Sumo Main Event** and secured **3rd Place** 🎉  
+where it competed in the **Robo Sumo Main Event** and secured **3rd Place** 🎉
+
+The participation/completion certificate for this project is attached in the same repository named as "certificate.png".
 
 ---
 
