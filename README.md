@@ -79,4 +79,5 @@ Attached in the repository named "schematic.jpg"
 ## 👨‍💻 Author
 **Suman R N**  
 📧 Contact: sumansurn@gmail.com 
----
+🔗 LinkedIn: https://www.linkedin.com/in/suman-r-1b5260335 
+
